@@ -62,6 +62,30 @@ public class User implements Serializable {
     @SerializedName("website")
     private String website;
 
+    public Address getAddress() {
+        return address;
+    }
+
+    public void setAddress(Address address) {
+        this.address = address;
+    }
+
+    public Company getCompany() {
+        return company;
+    }
+
+    public void setCompany(Company company) {
+        this.company = company;
+    }
+
+    @Expose
+    @SerializedName("address")
+    private Address address;
+
+    @Expose
+    @SerializedName("company")
+    private Company company;
+
     private String lastName;
     public int getId() {
         return id;

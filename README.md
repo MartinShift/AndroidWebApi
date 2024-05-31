@@ -2,8 +2,8 @@
 
 ## Main page
 
-![Main Page](main-page.png)
+![Main Page](main.png)
 
 ## User info page
 
-![User Info Page](user-info-page.png)
+![User Info Page](user-info.png)

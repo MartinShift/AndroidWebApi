@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Lesson06</string>
+    <string name="back">Back</string>
+    <string name="company_name">Company Name:</string>
+    <string name="city">City:</string>
+    <string name="website">Website:</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="username">Username:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="first_name">First Name:</string>
 </resources>
